@@ -44,7 +44,7 @@ export default function Intro() {
         >
             Hello! I'm <span className="font-bold">Gabrielle</span>, a{" "}
             <span className="font-bold">frontend developer</span> with{" "}
-            <span className="font-bold">2 years</span> of experience. I love creating
+            <span className="font-bold">2 years</span> of experience. I love creating{" "}
             <span className="italic">websites & apps</span> using{" "}
             <span className="underline">React (Next.js)</span>.
         </motion.h1>
